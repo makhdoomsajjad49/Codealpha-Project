@@ -1,15 +1,8 @@
 # Codealpha-Project
 ✅ TASK 1: Basic Network Sniffer
 
-I'm Makhdoom Sajjad Ali 
-
-First Of All
-
-I'm grateful to Codealpha because CodeAlpha has given me the opportunity to work with them. I am happy to work with Codealpha.
 
 About Project 
-
-Part 1
 
  Cyber Security Basic Network Sniffer.pdf
 
